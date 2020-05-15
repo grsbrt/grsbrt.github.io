@@ -800,7 +800,14 @@
     }
     
     img {
-        max-height: 40vh;
+        max-height: 500px;
+    }
+    
+    
+    
+    .coluna {
+        float: left;
+        display: block;
     }
     
     .coluna p {
