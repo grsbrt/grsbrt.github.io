@@ -764,6 +764,10 @@
 
 @media only screen and (max-width: 870px) {
     
+    h1 {
+        margin: 0px;
+    }
+    
     dl, dd, dt {
         display: inline-block;
         margin: 20px;
@@ -796,7 +800,7 @@
     }
     
     img {
-        max-height: 500px;
+        max-height: 40vh;
     }
     
     .coluna p {
@@ -805,9 +809,6 @@
     
     figcaption {
         display: block;
-    }
-    
-    footer {
     }
 }
 

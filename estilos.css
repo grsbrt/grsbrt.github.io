@@ -109,6 +109,11 @@ figcaption i {
     font-size: 16px;
 }
 
+img {
+    max-width: 40vw;
+    max-height: auto;
+}
+
 
 
 
